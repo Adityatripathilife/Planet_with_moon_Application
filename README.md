@@ -2,6 +2,7 @@ Introducing "Celestial Explorer," an innovative and visually stunning mobile app
 Created with a passion for space exploration, this app provides a wealth of information about each planet, including the fascinating details of their moons,
 accompanied by captivating images that bring the celestial bodies to life.
 
+
 <img width="1440" alt="Screenshot 2024-01-28 at 1 47 10 PM" src="https://github.com/Adityatripathilife/Planet_with_moon_Application/assets/126911195/2a137ab5-c1a8-4156-b9f4-d332635a02ad">
 With a user-friendly interface, Celestial Explorer allows users to seamlessly navigate through the planets, exploring their unique features and
 learning about the number of moons orbiting each one. The app combines educational content with immersive visuals, making it an engaging resource 
