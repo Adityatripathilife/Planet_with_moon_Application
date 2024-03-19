@@ -1,4 +1,4 @@
-Introducing "Celestial Explorer," an innovative and visually stunning mobile application that takes you on an enthralling journey through our solar system. 
+ Introducing "Celestial Explorer," an innovative and visually stunning mobile application that takes you on an enthralling journey through our solar system. 
 Created with a passion for space exploration, this app provides a wealth of information about each planet, including the fascinating details of their moons,
 accompanied by captivating images that bring the celestial bodies to life.
 
